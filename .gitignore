@@ -1,0 +1,13 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.vscode
+
+api_keys.py
+.env
+
+#Jupyter
+.ipynb_checkpoints
+
+
+
+
